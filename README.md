@@ -26,7 +26,7 @@ An Android Java app for managing personal and professional contacts, with featur
 
 ## 🤝 Projects I Contributed to as Part of a Team
 
-### 1. [Power Fuel](https://github.com/A-Nawfer/Power-Fuel)  
+### 1. [Power Fuel](https://github.com/A-Nawfer/power_fuel)  
 ⚡ A Fuel Requesting and Queue Management System for Super Admin, Fuel Station Admins, and Customers. Developed with Python Django backend, MongoDB database, responsive web front-end (HTML, CSS, JS, Bootstrap 5), and Dart/Flutter mobile apps.
 
 ### 2. [Vast Eats](https://github.com/A-Nawfer/Vast-Eats)  
